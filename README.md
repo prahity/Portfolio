@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/prahityaugand/">B.S, Computer Science, UIUC</a>
 
 <h2>Software Projects</h2>
-<h3>Computer Vision (Research)</h3>
+<h3><a href ="https://drive.google.com/file/d/16MTSCfCRikb-fThn0PBH4LFGdY7lK-QI/view?usp=sharing">Computer Vision (Research) </a></h3>
 <p> Implemented template matching algorithm to convert visual vibrations to spectrograms and classified images to spoken word with a custom CNN model, expanding the range of audio recognition (Tensorflow, OpenCV, Python)</p>
 
 <h3>GANs (Research)</h3>
