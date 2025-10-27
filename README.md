@@ -5,7 +5,7 @@
 <a href="https://github.com/prahity"> Github</a>
 
 <h2> About</h2>
-<p>I am a computer science major at UIUC graduating in 2027, passionate about machine learning/AI, software engineering and systems development projects. </p>
+<p>I am a computer science major at UIUC graduating in 2027, passionate about AI/ML, software engineering and systems development projects. </p>
 
 <h2>Machine Learning Projects</h2>
 
