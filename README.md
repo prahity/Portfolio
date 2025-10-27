@@ -7,7 +7,9 @@
 <h2> About</h2>
 <p>I am a computer science major at UIUC graduating in 2027, passionate about AI/ML, software engineering and systems development projects. </p>
 
-<h2>Machine Learning Projects</h2>
+<h2>My Projects</h2>
+
+<h2>Machine Learning</h2>
 
 <h3><a href ="https://github.com/prahity/Portfolio/blob/main/DigitalSemaphoreResearchPaper.pdf"> Audio Reconstruction from Visual Vibrations  </a></h3>
 <p> Implemented template matching algorithm to convert visual vibrations to spectrograms and classified images to spoken word with a custom CNN model, expanding the range of audio recognition (Tensorflow, OpenCV, Python)</p>
