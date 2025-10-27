@@ -1,7 +1,7 @@
-<h1>Hi, I am Prahit, a computer science major at UIUC graduating in 2027, passionate about machine learning/AI, software engineering and systems development projects. </h1>
+<h1>Hi, I am Prahit, </h1><h2>a computer science major at UIUC graduating in 2027, passionate about machine learning/AI, software engineering and systems development projects. </h2>
 
-<a href="https://www.linkedin.com/in/prahityaugand/"> Linkedin/a>
-<a href="https://github.com/prahity/Portfolio/blob/main/PrahitResume.pdf"> Resume/a>
+<a href="https://www.linkedin.com/in/prahityaugand/"> Linkedin</a>
+<a href="https://github.com/prahity/Portfolio/blob/main/PrahitResume.pdf"> Resume</a>
 
 <h2>Machine Learning Projects</h2>
 
