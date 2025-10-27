@@ -1,4 +1,4 @@
-<h1>I am Prahit! </h1>
+<h1>Hi, I am Prahit! </h1>
 <a href="https://www.linkedin.com/in/prahityaugand/">B.S, Computer Science, UIUC</a>
 
 <h2>Software Projects</h2>
