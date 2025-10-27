@@ -3,7 +3,7 @@
 
 <h2>Machine Learning Projects</h2>
 
-<h3><a href ="https://github.com/prahity/Portfolio/main/DigitalSemaphoreResearchPaper.pdf"> Audio Reconstruction from Visual Vibrations  </a></h3>
+<h3><a href ="https://github.com/prahity/Portfolio/DigitalSemaphoreResearchPaper.pdf"> Audio Reconstruction from Visual Vibrations  </a></h3>
 <p> Implemented template matching algorithm to convert visual vibrations to spectrograms and classified images to spoken word with a custom CNN model, expanding the range of audio recognition (Tensorflow, OpenCV, Python)</p>
 
 <h3> Cancer Cell Image Synthesis</h3>
