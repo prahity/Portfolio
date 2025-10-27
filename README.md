@@ -1,4 +1,4 @@
-<h1>Hi, I am Prahit </h1>
+<h1>Hi, I am Prahit! </h1>
 
 <a href="https://www.linkedin.com/in/prahityaugand/"> Linkedin</a>
 <a href="https://github.com/prahity/Portfolio/blob/main/PrahitResume.pdf"> Resume</a>
