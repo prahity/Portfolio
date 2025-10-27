@@ -2,6 +2,7 @@
 
 <a href="https://www.linkedin.com/in/prahityaugand/"> Linkedin</a>
 <a href="https://github.com/prahity/Portfolio/blob/main/PrahitResume.pdf"> Resume</a>
+<a href="https://github.com/prahity"> Github</a>
 
 <h2> About</h2>
 <p>I am a computer science major at UIUC graduating in 2027, passionate about machine learning/AI, software engineering and systems development projects. </p>
