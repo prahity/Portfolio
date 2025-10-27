@@ -3,19 +3,19 @@
 
 <h2>Machine Learning Projects</h2>
 
-<h3><a href ="https://github.com/prahity/Portfolio/cv.md">Machine Learning  </a></h3>
+<h3><a href ="https://github.com/prahity/Portfolio/blob/main/DigitalSemaphoreResearchPaper.pdf"> Audio Reconstruction from Visual Vibrations  </a></h3>
 <p> Implemented template matching algorithm to convert visual vibrations to spectrograms and classified images to spoken word with a custom CNN model, expanding the range of audio recognition (Tensorflow, OpenCV, Python)</p>
 
-<h3>Transformers</h3>
+<h3> Cancer Cell Image Synthesis</h3>
 <p>Leveraged Pix2Pix, U-net, and VGG GAN frameworks on HAL cluster to generate cancer cell images from low-quality microscopy images, allowing for faster and more accurate disease diagnosis (Pytorch, Python)</p>
 
-<h3>Transformers</h3>
-<p>Enhanced transformer-based models for the Oxford 102 Flowers dataset and the Pixmo dataset on the Delta AI cluster, employing strategies such as visual prompt tuning (Pytorch, Python)<p>
-
-<h3>LLM Application (Hackathon)</h3>
+<h3><a href ="https://devpost.com/software/tensor-crop-tracker-tct-ai"> Plant Disease Detection App</h3>
 <p>Designed a plant disease detection app to identify plant health conditions using CNN, track plant location, and provide treatment plans using an integrated chatbot API, allowing for efficient disease detection (Python, Tensorflow, Swift)</p>
 
-<h3>Data Analysis (Research)</h3>
+<h3>Enhancing Transformers</h3>
+<p>Enhanced transformer-based models for the Oxford 102 Flowers dataset and the Pixmo dataset on the Delta AI cluster, employing strategies such as visual prompt tuning (Pytorch, Python)<p>
+  
+<h3>DeepFake Detection</h3>
 <p>Developed preprocessing methods using Discrete Cosine Transform and kernel sharpening to enhance DeepFake detection with a custom CNN (Tensorflow, Python)</p>
 
 <h3>Statistics (Competition)</h3>
@@ -24,8 +24,6 @@
 
 <h3>Systems</h3>
 <p>Achieved 10-100x scaling speedups with GPUs by utilizing pinned memory and zero-copy memory transfers, providing proof of concept for GPU algorithm speedup at Parasol Lab (C/C++, STAPL)
-
-
 
 
 <h2>Web Applications / Web Programming (Project) </h2>
