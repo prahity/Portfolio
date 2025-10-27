@@ -1,5 +1,7 @@
-<h1>Hi, I am Prahit! </h1>
-<a href="https://www.linkedin.com/in/prahityaugand/">B.S, Computer Science, UIUC</a>
+<h1>Hi, I am Prahit, a computer science major at UIUC graduating in 2027, passionate about machine learning/AI, software engineering and systems development projects. </h1>
+
+<a href="https://www.linkedin.com/in/prahityaugand/"> Linkedin/a>
+<a href="https://github.com/prahity/Portfolio/blob/main/PrahitResume.pdf"> Resume/a>
 
 <h2>Machine Learning Projects</h2>
 
@@ -33,7 +35,7 @@
 <h3> <a href = "https://github.com/prahity/VocabularyBuilder">Skills Builder </a> </h3>
 <p> Designed a full-stack web application with 1000+ flashcards to enhance student vocabulary and math skills (React, Python, RedisDB)</p>
 
-<h3>Web Applications / Web Programming </h3>
+<h3>Room Reservation App </h3>
 <p>Built a room reservation app to connect hotel chain managers and customers for efficient bookings (React, NodeJS, MongoDB) </p>
 
 
