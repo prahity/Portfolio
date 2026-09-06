@@ -13,7 +13,7 @@
 <h3><a href="https://arxiv.org/pdf/2608.19490"> Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation </a> </h3>
 <p> Developed self-supervised rehearsal tasks using the RoboTwin simulator and fine-tuned Vision-Language-Action policies via the Pi0 base model combining self-supervised rehearsals with expert data to mitigate catastrophic forgetting of pretrained tasks contributing to an accepted paper at the IEEE IROS 2026 WORLDS Workshop.(Python) </p>
 
-<h3> Model Construction for key Youtube buisness metrics </a></h3>
+<h3> ML-Driven Business Intelligence for YouTube </a></h3>
 <p> As a part of a Google internship, I engineered a data collection pipeline for key business metrics. Then I developed and evaluated machine learning models for the YouTube Shopping and Product team. To present and productionize the model's outputs, I developed a Chrome extension along with dashboards to highlight and understand these key metrics. Additionally, I contributed my SQL optimization learnings into agentic skills for data analysis for the rest of the Youtube team. (BigQuery, Flume, Colab, GoogleSQL, Antigravity) </p>
 
 <h3><a href ="https://github.com/prahity/Portfolio/blob/main/DigitalSemaphoreResearchPaper.pdf"> Audio Reconstruction from Visual Vibrations  </a></h3>
