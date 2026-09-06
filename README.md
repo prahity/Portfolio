@@ -17,7 +17,7 @@
 <p> As a part of a Google internship, I engineered a data collection pipeline for key business metrics. Then I developed and evaluated machine learning models for the YouTube Shopping and Product team. To present and productionize the model's outputs, I developed a Chrome extension along with dashboards to highlight and understand these key metrics. Additionally, I contributed my SQL optimization learnings into agentic skills for data analysis for the rest of the Youtube team. (BigQuery, Flume, Colab, GoogleSQL, Antigravity) </p>
 
 <h3><a href ="https://github.com/prahity/Portfolio/blob/main/DigitalSemaphoreResearchPaper.pdf"> Audio Reconstruction from Visual Vibrations  </a></h3>
-<p> Implemented template matching algorithm to convert visual vibrations to spectrograms and classified images to spoken word with a custom CNN model, expanding the range of audio recognition (Tensorflow, OpenCV, Python)</p>
+<p> Implemented template matching algorithm to convert visual vibrations to spectrograms and classified images to spoken word with a custom CNN model, expanding the range of audio recognition (Tensorflow, OpenCV, Python) Mapped vibrations to spoken words with 97% accuracy on custom generated 1000 audio dataset </p>
 
 <h3> Cancer Cell Image Synthesis</h3>
 <p>Leveraged Pix2Pix, U-net, and VGG GAN frameworks on HAL cluster to generate cancer cell images from low-quality microscopy images, allowing for faster and more accurate disease diagnosis (Pytorch, Python)</p>
