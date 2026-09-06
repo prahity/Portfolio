@@ -10,6 +10,12 @@
 
 <h2>Machine Learning</h2>
 
+<h3><a href="https://arxiv.org/pdf/2608.19490"> Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation </a> </h3>
+<p> Developed self-supervised rehearsal tasks using the RoboTwin simulator and fine-tuned Vision-Language-Action policies via the Pi0 base model combining self-supervised rehearsals with expert data to mitigate catastrophic forgetting of pretrained tasks contributing to an accepted paper at the IEEE IROS 2026 WORLDS Workshop.(Python) </p>
+
+<h3> Model Construction for key Youtube buisness metrics </a></h3>
+<p> As a part of a Google internship, I engineered a data collection pipeline for key business metrics. Then I developed and evaluated machine learning models for the YouTube Shopping and Product team. To present and productionize the model's outputs, I developed a Chrome extension along with dashboards to highlight and understand these key metrics. Additionally, I contributed my SQL optimization learnings into agentic skills for data analysis for the rest of the Youtube team. (BigQuery, Flume, Colab, GoogleSQL, Antigravity) </p>
+
 <h3><a href ="https://github.com/prahity/Portfolio/blob/main/DigitalSemaphoreResearchPaper.pdf"> Audio Reconstruction from Visual Vibrations  </a></h3>
 <p> Implemented template matching algorithm to convert visual vibrations to spectrograms and classified images to spoken word with a custom CNN model, expanding the range of audio recognition (Tensorflow, OpenCV, Python)</p>
 
@@ -34,6 +40,13 @@
 <h3>GPU Integration for STAPL Parallel Programming Library</h3>
 <p>Achieved 10-100x scaling speedups with GPUs by utilizing pinned memory and zero-copy memory transfers, providing proof of concept for GPU algorithm speedup at Parasol Lab (C/C++, STAPL)
 
+<h2> LLM/AI Agent Applications</h2>
+
+<h3><a href = https://devpost.com/software/consensuscore>Converge </a> </h3>
+<p>Through this project I built a multi-agent AI system with agents embodying diverse personas to simulate jury deliberation, tackling a 750,000-case judicial backlog to reduce reliance on in-person jury proceedings  (Python, React, Modal) </p>
+
+<h3><a href = https://devpost.com/software/consensuscore>Consensus Core </a> </h3>
+<p>Built an autonomous multi-agent system for optimizing businesses' webpages. The agents analyze a codebase, generate candidate improvements, and deploy them as feature-flagged A/B test variants against live traffic. Winning variants are promoted automatically based on factors like revenue, clicks, etc. closing the loop from website analysis to shipped improvement without human intervention. Our project placed in the top 20 at the Y-Combinator RSI RL Environments Hackathon. </p>
 
 <h2>Web Programming</h2>
 
@@ -48,3 +61,8 @@
 
 <h3>iOS</h3> 
 <b>Developed an iPhone virtual stock trading app using Yahoo Finance API data to promote financial awareness among students (Swift) </p>
+
+<h3>Other</h3>
+
+
+
