@@ -60,9 +60,20 @@
 <h2>Mobile Programming</h2> 
 
 <h3>iOS</h3> 
-<b>Developed an iPhone virtual stock trading app using Yahoo Finance API data to promote financial awareness among students (Swift) </p>
+<p>Developed an iPhone virtual stock trading app using Yahoo Finance API data to promote financial awareness among students (Swift) </p>
 
-<h3>Other</h3>
+<h2>Leadership & Community</h2>
+
+<h3> <a href = "https://www.pulseillinois.org/">Pulse Tech Conference</h3>
+<p>
+  As President, I organized and hosted the Pulse 2026 conference, bringing together over 200 students for technical competitions and talks featuring industry leaders from AMD, Astera Labs, and Texas Instruments. To further support student career growth, I organized interview and career-preparation sessions alongside FAST Enterprises for 40+ UIUC students. Prior to this, as Technical Staff, I designed and deployed the 2025 conference website using Figma, React, and cPanel, successfully supporting the registration and information needs of 200+ attendees.
+</p>
+
+<h3> <a href="https://www.microlessons.org/home"> Micro Lessons Academy</a></h3>
+<p>
+  I founded Micro Lessons Academy, a nonprofit organization dedicated to providing free, high-quality STEM education to elementary and middle school students. Through this initiative, I personally delivered weekly mathematics instruction to 100+ students across 15+ different schools in the Bay Area. To ensure the program's long-term success and reach, I also mentored a team of student instructors and developed comprehensive new curricula focused on programming and competitive mathematics.
+</p>
+
 
 
 
